@@ -1,5 +1,3 @@
-# NOMES:  Ana Paula Duarte e Vitor Hanauer Fontena
-
 import os
 
 lista = []
