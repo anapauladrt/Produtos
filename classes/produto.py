@@ -118,4 +118,3 @@ while 1:
 
     except:
         valido = print("Digite um valor válido!")
-        input("entrou aqui")
